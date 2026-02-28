@@ -6,6 +6,13 @@ This project currently has two implementations: a Python version and a c++ port.
 #### Python Version:  https://github.com/gs109111/WordleSolver/
 ---
 
+> [!WARNING]
+> This project uses an **unofficial NYTimes Wordle endpoint** to fetch the latest puzzle answers. 
+> It is intended **for educational purposes only**. 
+> Please do **not use this for mass scraping, automated attacks, or commercial purposes**. 
+> The endpoint may change or be removed by NYTimes at any time, which could break this tool.
+---
+
 ## C++ Port/Version 
 #### https://github.com/gs109111/WordleSolver/tree/cpp
 
