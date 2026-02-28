@@ -43,7 +43,6 @@ This project includes two implementations: a Python version and a C++ port. Whil
 |----------------------------------|--------|
 | NYTimes                           | Yes    |
 | Wordle Unlimited                  | No     |
-| Automatic Solver (NYTimes)        | No     |
 | Automatic Solver (Wordle Unlimited) | No  |
 | Colored & Formatted Logs          | No     |
 | Performance Stats                 | No     |
