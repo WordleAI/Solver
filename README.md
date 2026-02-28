@@ -16,7 +16,7 @@ This project includes two implementations: a Python version and a C++ port. Whil
 ## C++ Port/Version 
 #### https://github.com/gs109111/WordleSolver/tree/cpp
 
-**The C++ port supports:**
+###**The C++ port supports:**
 
 - Fetching and displaying the **latest answer** from **NYTimes Wordle**
 - Lightweight JSON parsing
