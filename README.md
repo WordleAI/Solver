@@ -39,7 +39,6 @@ This project currently has two implementations: a Python version and a c++ port.
 | Colored & Formatted Logs    | No         |
 | Performance Stats    | No         |
 ---
----
 
 ## Todo
 
