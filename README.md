@@ -5,6 +5,7 @@ This project currently has two implementations: a Python version and a c++ port.
 ---
 
 ## Python Version
+#### https://github.com/gs109111/WordleSolver/
 
 The Python implementation provides expanded functionality and automation features:
 
@@ -33,7 +34,8 @@ The Python implementation provides expanded functionality and automation feature
 - Termcolor (https://pypi.org/project/termcolor/)
 ---
 
-## C++ Port/Version (https://github.com/gs109111/WordleSolver/tree/cpp)
+## C++ Port/Version 
+#### https://github.com/gs109111/WordleSolver/tree/cpp
 
 **The C++ port supports:**
 
