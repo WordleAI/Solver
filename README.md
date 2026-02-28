@@ -33,7 +33,7 @@ The Python implementation provides expanded functionality and automation feature
 - Termcolor (https://pypi.org/project/termcolor/)
 ---
 
-## C++ Port/Version
+## C++ Port/Version (https://github.com/gs109111/WordleSolver/tree/cpp)
 
 **The C++ port supports:**
 
