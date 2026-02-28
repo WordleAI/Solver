@@ -39,7 +39,7 @@ This project includes two implementations: a Python version and a C++ port. Whil
 
 ## Current Features
 
-| Feature                          | Status |
+| Feature/Services                          | Supported |
 |----------------------------------|--------|
 | NYTimes                           | Yes    |
 | Wordle Unlimited                  | No     |
