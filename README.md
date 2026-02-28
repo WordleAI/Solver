@@ -30,15 +30,14 @@ This project currently has two implementations: a Python version and a c++ port.
 
 ## Current Features
 
-| Feature                          | 
-|----------------------------------|
-| NYTimes          | Yes        |
-| Wordle Unlimited          | No         | 
-| Automatic Solver (NYTimes)       | No         |
-| Automatic Solver (Wordle Unlimited)     | No         |
-| Colored & Formatted Logs    | No         |
-| Performance Stats    | No         |
----
+| Feature                          | Status |
+|----------------------------------|--------|
+| NYTimes                           | Yes    |
+| Wordle Unlimited                  | No     |
+| Automatic Solver (NYTimes)        | No     |
+| Automatic Solver (Wordle Unlimited) | No  |
+| Colored & Formatted Logs          | No     |
+| Performance Stats                 | No     |
 
 ## Todo
 
