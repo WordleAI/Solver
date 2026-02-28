@@ -4,9 +4,9 @@ CXXFLAGS = -Wall -g -std=c++20
 LDFLAGS =
 LIBS =
 
-INC_DIR = /opt/local/include
-LIB_DIR = /opt/local/lib
-RAPIDJSON_LIB_DIR = /opt/local/include/rapidjson
+INC_DIR = /opt/local/include # Change this to your include's directory
+LIB_DIR = /opt/local/lib # Change this to the your lib directory
+RAPIDJSON_LIB_DIR = /opt/local/include/rapidjson # Change this to the rapidjson library directory
 
 # Add include paths
 CXXFLAGS += -I$(INC_DIR)
