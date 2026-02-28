@@ -31,7 +31,6 @@ This project includes two implementations: a Python version and a C++ port. Whil
 
 - Currently only supports **NYTimes Wordle**
 - Retrieves **latest answer only**
-- No auto solver functionality
 - Currently no support for alternative Wordle variants
 - No formatting or coloring of logs
 
