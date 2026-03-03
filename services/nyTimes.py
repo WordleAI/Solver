@@ -27,7 +27,9 @@ def main():
 
     if month != 12 or month != 11 or month != 10:
         month = f"0{month}"
-
+    if len(day) == 1:
+        day = f"0{day}"
+        
     print("")
     cprint("[WordleSolver/NYTimes] Loading Wordle Data From NYTimes...", color="blue", attrs=['bold'])
 
