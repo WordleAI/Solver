@@ -1,16 +1,11 @@
 # WordleSolver
 
-This project includes two implementations: a Python version and a C++ port. While both share the same core goal, their features differ slightly. The long-term objective is to move away from reliance on the NYTimes endpoint and other services, focusing on a universal, independent Wordle-solving solution.
-
-#### C++ Solver: https://github.com/gs109111/WordleSolver/tree/solver_cpp
-#### Python Solver:  https://github.com/gs109111/WordleSolver/tree/solver_python
-#### Dictionary:  https://github.com/gs109111/WordleSolver/tree/dictionary
-#### Wordle Python (Game):  https://github.com/gs109111/WordleSolver/tree/game
+This repo includes two implementations: a Python version and a C++ port. While both share the same core goal, their features differ slightly. The long-term objective is to move away from reliance on the NYTimes endpoint and other services, focusing on a universal, independent Wordle-solving solution.
 
 ---
 
 > [!WARNING]
-> This project currently uses an **undocumented NYTimes Wordle endpoint** to fetch the latest puzzle answers. 
+> This repo currently uses an **undocumented NYTimes Wordle endpoint** to fetch the latest puzzle answers. 
 > It is intended **for educational purposes only**. 
 > Please do **not use this for mass scraping, automated attacks, or commercial purposes**. 
 > The endpoint may change or be removed by NYTimes at any time, which could break this tool.
